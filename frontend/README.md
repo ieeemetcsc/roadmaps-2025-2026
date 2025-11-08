@@ -1,3 +1,5 @@
+![Frontend Visual Roadmap](frontend_visual_roadmap.png)
+
 # 🌐 Comprehensive Frontend Developer Roadmap (General)
 
 This roadmap outlines the complete journey from basic web knowledge to mastering modern JavaScript frameworks and industry best practices.

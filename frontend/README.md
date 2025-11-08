@@ -1,4 +1,4 @@
-![Frontend Visual Roadmap](frontend_visual_roadmap.png)
+![Frontend Visual Roadmap](frontend_visual_roadmap.jpg)
 
 # 🌐 Comprehensive Frontend Developer Roadmap (General)
 

@@ -6,7 +6,7 @@
 
 ## 📖 About IEEE MET CS Chapter
 
-The **IEEE MET Computer Society Chapter** is a student-led community at the Faculty of Engineering, Mataria (MET), dedicated to empowering students with practical technical skills and industry-relevant knowledge.
+The **IEEE MET Computer Society Chapter** is a student-led community at the Misr Higher Institute of Engineering and Technology in Mansoura (M.E.T), dedicated to empowering students with practical technical skills and industry-relevant knowledge.
 
 ### Who We Are
 We are a vibrant group of students, learners, and tech enthusiasts committed to bridging the gap between academic theory and real-world application. As part of the global IEEE Computer Society, we uphold the values of innovation, collaboration, and continuous learning.

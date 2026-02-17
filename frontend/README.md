@@ -57,7 +57,7 @@ This Level 1 roadmap is designed to build foundational skills in web development
 | Track | Sessions | Focus | **Playlist Link** |
 | :--- | :--- | :--- | :--- |
 | **HTML** | 0 to 5 | Structuring web content, semantic markup, forms, and accessibility basics. | [🔗 HTML Playlist](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji) |
-| **CSS** | 6 to 15 | Styling, the Box Model, layouts (Flexbox & Grid), responsive design, animations, and transitions. | [🔗 CSS Playlist]. (https://www.youtube.com/playlist?list=PLDoPjvoNmBAzjsz06gkzlSrlev53MGIK). |
+| **CSS** | 6 to 15 | Styling, the Box Model, layouts (Flexbox & Grid), responsive design, animations, and transitions. | [🔗 CSS Playlist](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe) |
 
 ---
 ---

@@ -9,11 +9,11 @@ This roadmap outlines the complete journey from basic web knowledge to mastering
 The foundation of all web development, focusing on structure, style, and basic interactivity.
 
 | Stage | Topics Covered | Key Concepts | Timeframe (Approx.) |
-| :--- | :--- | :--- | :--- |
+| :--- | :--- | :--- | :---- |
 | **1.1. Internet & Tools** | - How the Internet Works (DNS, HTTP/S) <br> - Browser APIs & DevTools <br> - **Git & GitHub** (Version Control) <br> - VS Code Setup & Extensions | Client-Server Architecture, Caching, Inspecting Elements | 1 Week |
 | **1.2. HTML & Accessibility** | - Semantic HTML5 (Header, Article, Section, etc.) <br> - Forms and Validation <br> - **Accessibility (A11Y)**: ARIA, Keyboard Navigation | SEO Basics, Screen Readers, Semantic Tags | **(Covered in Level 1)** |
 | **1.3. CSS & Layout** | - **CSS Level-up**: Specificity, Cascade, Inheritance <br> - The Box Model & Logical Properties <br> - **Modern Layouts**: Flexbox and CSS Grid <br> - **Responsive Design**: Media Queries, Viewport, Mobile First | `rem`, `em`, `vw`, `vh` Units, `calc()`, `minmax()` | **(Covered in Level 1)** |
-| **1.4. CSS Frameworks** | - **Bootstrap** <br> - **Tailwind CSS**  | **(Covered in Level 1)** |
+| **1.4. CSS Frameworks** | - **Bootstrap**: Components & Grid system <br> - **Tailwind CSS**: Utility-first workflow | Component-driven UI, Utility Classes, Rapid Prototyping, Design Tokens | **(Covered in Level 1)** |
 
 ## 2. 🧠 Programming Foundation: JavaScript
 
